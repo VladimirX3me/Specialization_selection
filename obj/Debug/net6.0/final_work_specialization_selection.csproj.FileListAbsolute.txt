@@ -1,0 +1,15 @@
+E:\GB\final_work_specialization_selection\bin\Debug\net6.0\final_work_specialization_selection.exe
+E:\GB\final_work_specialization_selection\bin\Debug\net6.0\final_work_specialization_selection.deps.json
+E:\GB\final_work_specialization_selection\bin\Debug\net6.0\final_work_specialization_selection.runtimeconfig.json
+E:\GB\final_work_specialization_selection\bin\Debug\net6.0\final_work_specialization_selection.dll
+E:\GB\final_work_specialization_selection\bin\Debug\net6.0\final_work_specialization_selection.pdb
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.csproj.AssemblyReference.cache
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.AssemblyInfoInputs.cache
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.AssemblyInfo.cs
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.csproj.CoreCompileInputs.cache
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.dll
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\refint\final_work_specialization_selection.dll
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.pdb
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\final_work_specialization_selection.genruntimeconfig.cache
+E:\GB\final_work_specialization_selection\obj\Debug\net6.0\ref\final_work_specialization_selection.dll
