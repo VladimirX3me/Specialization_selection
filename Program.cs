@@ -9,3 +9,5 @@ foreach (var item in startingArray)
         resultArray[resultArray.Length - 1] = item;
     }
 }
+
+Console.WriteLine($"[{String.Join("; ", resultArray)}]");
